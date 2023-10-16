@@ -1,0 +1,264 @@
+.topimg {
+    width: 100%;
+    z-index: 1;
+    position: relative;
+}
+
+.topimgdiv {
+    height: 85vh;
+    background: black;
+
+}
+
+@media (max-width:425px) {
+    .topimgdiv {
+        height: 37vh;
+
+    }
+}
+
+@media (max-width:768px) and (min-width:425px) {
+    .topimgdiv {
+        height: 53vh;
+
+    }
+}
+
+@media (max-width:1024px) and (min-width:768px) {
+    .topimgdiv {
+        height: 72vh;
+
+    }
+}
+
+.container {
+    background: #282c34;
+    /* height: 500vh; */
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+
+.discribtion {
+    font-family: sans-serif;
+    position: relative;
+    font-weight: 600;
+    z-index: 2;
+    color: white;
+    max-width: 30%;
+    width: auto;
+    line-height: 22px;
+    margin: 0;
+    /* float: right; */
+    left: 60%;
+    top: -380px;
+
+}
+
+@media (max-width: 425px) {
+    #carimg{
+    height: 100%;
+
+    }
+    #more{
+        left: -12px;
+        top: -20px;
+    }
+    #angleicon {
+        font-size: 16px;
+        left: 48%;
+    }
+
+    #cartitle {
+        top: -3rem;
+        font-size: 14px;
+
+    }
+
+    #cars {
+        height: 28vh;
+        margin-top: 5rem;
+    }
+
+    .carpara,
+    #carparaid {
+        width: 76%;
+        height: 40vh;
+        top: -90%;
+        left: 2rem;
+    }
+
+    .whatcar {
+        font-size: 18px;
+    }
+
+    .setp {
+        font-size: 12px;
+    }
+
+    .seth2 {
+        font-size: 17px;
+    }
+
+    .discribtion {
+        font-size: 8px;
+        line-height: 11px;
+        top: -125px;
+        max-width: 40%;
+        left: 58%;
+    }
+
+}
+
+
+
+
+
+#fixedimg {
+    z-index: 1;
+    position: fixed;
+}
+
+.typer {
+    margin: 0;
+    position: relative;
+    width: 6px;
+
+
+}
+
+#cursor {
+    color: #0095ff;
+    font-weight: 900;
+    /* font-size: 20px; */
+}
+
+.gradient {
+    display: block;
+    width: 100%;
+    height: 34px;
+    background: linear-gradient(transparent, black);
+    position: relative;
+    top: -38px;
+    z-index: 2;
+}
+
+#canvas {
+    border-radius: 10px;
+    border: 1px solid #0095ff;
+    box-shadow: 0 0 10px #0095ff;
+    left: 2%;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: block;
+}
+
+.whatcar {
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+    top: 7rem;
+    left: 7%;
+}
+
+.seconddiv {
+    overflow: hidden;
+    background: linear-gradient(black, #014872, #014872, #014872, #014872, #014872);
+    height: 150vh;
+
+
+}
+
+.canvasdiv {
+    position: relative;
+    top: 9rem;
+    height: 110vh;
+}
+
+.carpara {
+    width: 30%;
+    height: 74vh;
+    /* background: #014872; */
+    position: relative;
+    top: -88vh;
+    left: 5rem;
+    /* box-shadow: inset 1px 1px 20px #0095ff; */
+    border-radius: 14px;
+}
+
+.setp {
+    color: white;
+    font-family: sans-serif;
+    max-width: 90%;
+    margin-left: 5%;
+    line-height: 1.5;
+}
+
+.seth2 {
+    color: white;
+    font-family: sans-serif;
+    max-width: 90%;
+    margin-left: 5%;
+}
+
+.thirddiv {
+    background: #014872;
+    height: auto;
+    width: 100%;
+    border-top: 1px solid #ffffff31;
+}
+
+.cars {
+    width: 80%;
+    height: 90vh;
+    background: green;
+    border-radius: 12px;
+    position: relative;
+    margin-top: 10rem;
+    left: 10%;
+    box-shadow: 1px 1px 20px 0px black;
+
+}
+
+.carimg {
+    width: 100%;
+}
+
+.carimgdiv {
+    border-radius: 12px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+
+}
+
+.cartitle {
+    top: -6rem;
+    position: relative;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+.angleicon {
+    font-family: sans-serif;
+
+
+
+    color: rgb(90 163 206);
+    font-weight: 900;
+    font-size: 25px;
+    position: relative;
+    top: -2rem;
+    left: 50%;
+}
+.more{
+    position: relative;
+    left: -17px;
+    top: -2rem;
+    font-weight: 600;
+    color: rgb(90 163 206 / 32%);
+    
+    
+}

@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+}
+
+.bg {
+  background-color: #282c34;
+  width: 100%;
+  height: 100vh;
+}
+
+.displayfelx {
+  display: flex;
+  font-family: sans-serif;
+}
+
+.textaligncenter {
+  text-align: center;
+}
+
+.felxcenter {
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+#nothing {
+  font-family: sans-serif;
+}
+
+
+::-webkit-scrollbar {
+  background: rgb(41, 50, 68);
+  width: 10px;
+
+}
+
+::-webkit-scrollbar-thumb {
+  background: white;
+
+  border-radius: 10px;
+}
+
+.zindex2 {
+  z-index: 2;
+  position: relative;
+}
+
+.needscroll {
+  overflow-y: scroll;
+}
+
+.needscroll::-webkit-scrollbar {
+  background: transparent;
+  width: 5px;
+
+}
+
+/* .needscroll::-webkit-scrollbar-thumb{
+  background: #014872;
+
+} */
+.needscroll::-webkit-scrollbar-thumb:hover {
+  background: rgb(0, 61, 97);
+
+}
+
+
+
+
+
+
+
+
+/* 
+
+
+
+
+
+@media (max-width: 425px) {
+  .topimgdiv {
+    height: 37vh;
+
+  }
+  .whatcar {
+    font-size: 18px;
+  }
+
+  .setp {
+    font-size: 12px;
+  }
+
+  .seth2 {
+    font-size: 17px;
+  }
+
+  .carpara {
+    width: 76%;
+    height: 40vh;
+    top: -95vh;
+    left: 2rem;
+  }
+
+  .discribtion {
+    font-size: 8px;
+    line-height: 11px;
+    top: -125px;
+    max-width: 40%;
+    left: 58%;
+  }
+
+}
+
+
+
+
+
+
+
+@media (max-width:768px) and (min-width:425px) {
+  .topimgdiv {
+    height: 53vh;
+
+  }
+}
+
+@media (max-width:1024px) and (min-width:768px) {
+  .topimgdiv {
+    height: 72vh;
+
+  }
+} */

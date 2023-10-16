@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/createdbyameen/static/css/main.b78b769d.css",
-    "main.js": "/createdbyameen/static/js/main.4bfcf5fc.js",
+    "main.css": "/createdbyameen/static/css/main.410f0330.css",
+    "main.js": "/createdbyameen/static/js/main.f87e0e95.js",
+    "static/media/sports-car-colorful-digital-art-4k-wallpaper-uhdpaper.com-693@1@k.jpg": "/createdbyameen/static/media/sports-car-colorful-digital-art-4k-wallpaper-uhdpaper.com-693@1@k.8ddab5a62c29f8033026.jpg",
     "static/media/img2.jpg": "/createdbyameen/static/media/img2.9d8731b32ed2906c2ad0.jpg",
     "static/media/img1.jpg": "/createdbyameen/static/media/img1.054e5f29af7dc09bfb16.jpg",
     "index.html": "/createdbyameen/index.html",
-    "main.b78b769d.css.map": "/createdbyameen/static/css/main.b78b769d.css.map",
-    "main.4bfcf5fc.js.map": "/createdbyameen/static/js/main.4bfcf5fc.js.map"
+    "main.410f0330.css.map": "/createdbyameen/static/css/main.410f0330.css.map",
+    "main.f87e0e95.js.map": "/createdbyameen/static/js/main.f87e0e95.js.map"
   },
   "entrypoints": [
-    "static/css/main.b78b769d.css",
-    "static/js/main.4bfcf5fc.js"
+    "static/css/main.410f0330.css",
+    "static/js/main.f87e0e95.js"
   ]
 }

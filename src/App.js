@@ -4,6 +4,7 @@ import {BrowserRouter  as Router, Routes, Route} from 'react-router-dom'
 import Home from './pages/home/Home';
 import { LoadingContext } from './contexts/LoadingContext';
 import Signup from './pages/sign up/Signup';
+import Login from './pages/sign up/Login';
 
 
 function App() {
@@ -36,6 +37,8 @@ function App() {
           <Route exact path='/createdbyameen' element={<Home/>}/>
 
           <Route exact path='/signup' element={<Signup/>}/>
+
+          <Route exact path='/login' element={<Login/>}/>
 
         </Routes>
       </Router>

@@ -1,0 +1,125 @@
+.loadingtext{
+    color: #8080803d;
+}
+
+.a1{
+    animation: a1 5s infinite;
+}
+.a2{
+    animation: a2 5s infinite;
+}
+.a3{
+    animation: a3 5s infinite;
+}
+.a4{
+    animation: a4 5s infinite;
+}
+.a5{
+    animation: a5 5s infinite;
+}
+.a6{
+    animation: a6 5s infinite;
+}
+.a7{
+    animation: a7 5s infinite;
+}
+.a8{
+    animation: a8 5s infinite;
+}
+.a9{
+    animation: a9 5s infinite;
+}
+.a10{
+    animation: a10 5s infinite;
+}
+
+@keyframes a1{
+    0%{
+        color: white;
+    }
+    10%{
+        color: #8080803d;
+    }
+    
+}
+@keyframes a2{
+    10%{
+        color: white;
+    }
+    20%{
+        color: #8080803d;
+    }
+    
+}
+@keyframes a3{
+    20%{
+        color: white;
+    }
+    30%{
+        color: #8080803d;
+    }
+    
+}
+@keyframes a4{
+    30%{
+        color: white;
+    }
+    40%{
+        color: #8080803d;
+    }
+    
+}
+@keyframes a5{
+    40%{
+        color: white;
+    }
+    50%{
+        color: #8080803d;
+    }
+    
+}
+@keyframes a6{
+    50%{
+        color: white;
+    }
+    60%{
+        color: #8080803d;
+    }
+    
+}
+@keyframes a7{
+    60%{
+        color: white;
+    }
+    70%{
+        color: #8080803d;
+    }
+    
+}
+@keyframes a8{
+    70%{
+        color: white;
+    }
+    80%{
+        color: #8080803d;
+    }
+    
+}
+@keyframes a9{
+    80%{
+        color: white;
+    }
+    90%{
+        color: #8080803d;
+    }
+    
+}
+@keyframes a10{
+    90%{
+        color: white;
+    }
+    100%{
+        color: #8080803d;
+    }
+    
+}

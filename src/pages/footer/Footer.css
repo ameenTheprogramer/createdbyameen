@@ -1,0 +1,41 @@
+.footerdiv {
+    height: 100vh;
+    width: 100%;
+    /* background: #282c34; */
+    background: linear-gradient(#014872, #282c34, #282c34, #282c34, #282c34, #282c34, #282c34, #282c34);
+    /* border-top: 1px solid #ffffff31; */
+
+
+}
+
+@media (max-width: 425px) {
+    .footerdiv {
+        height: 60vh;
+
+    }
+
+    #copy {
+        left: 32%;
+        top: 17rem;
+    }
+}
+
+.copy {
+    position: relative;
+    width: fit-content;
+    left: 44%;
+    top: 35rem;
+}
+
+.signupbtn {
+    width: 20%;
+    height: 5vh;
+    border: none;
+    border-radius: 10px;
+    background: yellow;
+    position: relative;
+    top: 35%;
+    left: 43%;
+    font-weight: 600;
+    font-family: sans-serif;
+}
